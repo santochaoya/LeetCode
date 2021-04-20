@@ -1,3 +1,12 @@
+# ===============================================================================================
+# 
+# A very original and brute force method:
+#   * convert to string
+#   * compare the left half part to the corresponding right half part.
+# 
+# ===============================================================================================
+
+
 input_number = input()
 flag = []
 
